@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import profileImg from "../../assets/ousa.png";
-import annaImg from "../../assets/anna.png";
+import annaImg from "../../assets/Anna.png";
 import jackImg from "../../assets/jack.png";
 import shuriImg from "../../assets/shuri.png";
 import janeeImg from "../../assets/janee.png";
