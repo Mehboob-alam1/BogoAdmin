@@ -1,5 +1,5 @@
 // import React, { useState } from "react";
-// import logo from "../assets/logo.png"; // Easistar logo
+// import logo from "../assets/Logo.png"; // Easistar logo
 // import eyeIcon from "../assets/Eye Open.png"; // Eye icon
 // import dashboardImage from "../assets/signin.png"; // Right side illustration
 
@@ -124,7 +124,7 @@ import { ref, set } from "firebase/database";
 import { auth, db } from "../firebase";
 
 
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import eyeIcon from "../assets/Eye Open.png";
 import dashboardImage from "../assets/signin.png";
 

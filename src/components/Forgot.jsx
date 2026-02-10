@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { sendPasswordResetEmail } from "firebase/auth";
 import { auth } from "../firebase";
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import signinImage from "../assets/signin.png";
 
 export default function Forgot() {
